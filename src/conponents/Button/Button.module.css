@@ -1,0 +1,15 @@
+.root {
+	margin: 0;
+	bottom: 0;
+	border: 0;
+	overflow: hidden;
+	padding: 0;
+	cursor: pointer;
+	width: 63px;
+	height: 63px;
+	border-radius: 50%;
+	display: inline-block;
+	font-size: 16px;
+	outline: none;
+	appearance: none;
+}
